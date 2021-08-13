@@ -1,0 +1,13 @@
+{
+    "name": "uptime-status",
+    "description": "UptimeRobot StatusPage",
+    "keywords": [
+        "UptimeRobot",
+        "StatusPage",
+        "Uptime",
+        "Robot"
+    ],
+    "env": {
+        "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-php"
+    }
+}
